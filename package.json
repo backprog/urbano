@@ -1,6 +1,6 @@
 {
   "name": "urbano",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "ES6 framework",
   "main": "index.js",
   "bin": {
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://oktar@bitbucket.org/oktar/urbano.git"
+    "url": "https://github.com/backprog/urbano.git"
   },
-  "author": "Oktar",
+  "author": "Backprog <support@backprog.com>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/oktar/urbano#readme",
+  "homepage": "https://github.com/backprog/urbano.git#readme",
   "dependencies": {
     "adm-zip": "^0.4.7",
     "async": "^2.0.1",
