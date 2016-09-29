@@ -1,0 +1,22 @@
+{
+  "name": "urbano-app",
+  "version": "1.0.0",
+  "description": "An urbano app",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "import-export": "git+https://github.com/backprog/import-export.git",
+    "js-yaml": "^3.6.1",
+    "routes": "^2.1.0",
+    "winston": "^2.2.0",
+    "urbano": "file:/usr/local/lib/node_modules/urbano"
+  }
+}

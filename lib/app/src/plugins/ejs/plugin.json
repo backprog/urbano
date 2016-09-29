@@ -1,0 +1,6 @@
+{
+    "render": ["response"],
+    "dependencies": {
+        "ejs": "^2.5.2"
+    }
+}
