@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ES6 framework",
   "main": "index.js",
+  "preferGlobal": true,
   "bin": {
     "urbano": "bin/urbano.js"
   },
