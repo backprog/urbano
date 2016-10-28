@@ -27,6 +27,7 @@
     "import-export": "git+https://github.com/backprog/import-export.git",
     "jsonfile": "^2.4.0",
     "lodash": "^4.16.0",
+    "memored": "^0.1.0",
     "node-uuid": "^1.4.7",
     "prompt": "^1.0.0",
     "request": "^2.75.0"
